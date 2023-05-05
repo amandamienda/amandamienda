@@ -3,7 +3,6 @@
 <strong> Designer e estudante de programação fullstack </strong> 
 
 - 🚀 Atualmente estou aprendendo: <strong>Javascript</strong> 
-- 💬 Hobbies: <strong>Ilustrar e analisar capas de livro :)</strong>
 
 <div align="center">
 
