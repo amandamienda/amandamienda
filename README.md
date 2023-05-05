@@ -1,18 +1,14 @@
-# [Amanda Menezes] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# Amanda Menezes
 
-Eu sou <strong>Seu Nome</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+<strong> Designer e estudante de programação fullstack </strong> 
 
-- 🚀 Atualmente estou aprendendo: <strong>Coloque as linguagens que você atualmente está aprendendo</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- 🚀 Atualmente estou aprendendo: <strong>Javascript</strong> 
+- 💬 Hobbies: <strong>Ilustrar e analisar capas de livro :)</strong>
 
 <div align="center">
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
-
   <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandamenezesdesigner/" /></a>
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+ ![amandamienda's Stats](https://github-readme-stats.vercel.app/api?username=amandamienda&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![dino](https://user-images.githubusercontent.com/131783632/236532602-b076178c-3538-4f73-9913-aac1e46df935.gif)
